@@ -86,7 +86,7 @@ while f == false {
     }
     n += 1
 }
-print(r * (n - 1))
+print(base * (n - 1))
 
 // Problem 6
 func sumOfSquares(n: Int) -> Int {
