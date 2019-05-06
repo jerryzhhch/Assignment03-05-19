@@ -180,6 +180,6 @@ while Pnum < 2000000 {
     if isPrime10(n: Pnum) == true {
         sum10 += Pnum
     }
-    number += 1
+    Pnum += 1
 }
 print(sum10)
